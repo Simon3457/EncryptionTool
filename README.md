@@ -20,15 +20,15 @@ First, you must generate a password, and then you generate the key. There's a pa
 
 <p align="center">
 Application GUI: <br/>
-<img src="https://i.imgur.com/xNXP3DN.png" height="50%" width="50%" alt="Encryption Tool Steps"/>
+<img src="https://i.imgur.com/xNXP3DN.png" height="30%" width="30%" alt="Encryption Tool Steps"/>
 <br />
 <br />
 Generate Password: <br/>
-<img src="https://i.imgur.com/23yQIu9.png" height="50%" width="50%" alt="Encryption Tool Steps"/>
+<img src="https://i.imgur.com/23yQIu9.png" height="30%" width="30%" alt="Encryption Tool Steps"/>
 <br />
 <br />
 Generate Key: <br/>
-<img src="https://i.imgur.com/GAYiuie.png" height="50%" width="50%" alt="Encryption Tool Steps"/>
+<img src="https://i.imgur.com/GAYiuie.png" height="30%" width="30%" alt="Encryption Tool Steps"/>
 </p>
 
 <!--
