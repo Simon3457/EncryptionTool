@@ -1,4 +1,4 @@
-# EncryptionTool
+# Encryption Tool
 
 <h2>Description</h2>
 This project is a file encryption tool written in python. It also has helper programs to generate an encryption key and a length-variable password for the encryption tool program. It uses the Pycryptodome package for any cryptographic functions, as well as the AES-256 encryption algorithm.
