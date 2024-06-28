@@ -4,7 +4,7 @@
 This project is a file encryption tool written in python. It also has helper programs to generate an encryption key and a length-variable password for the encryption tool program. It uses the Pycryptodome package for any cryptographic functions, as well as the AES-256 encryption algorithm.
 <br />
 <br />
-First, you must generate a password, and then you generate the key. There's a password text file that emulates a database, so make sure that the password you use matches the one in the text file. Also, the key generator program uses your password to create a secret key.
+First, you must generate a password, and then you generate the key. The key generator program uses your current password to produce the secret key. There's a password text file that emulates saving your password to a database, so make sure that the password you use matches the one in the password.txt file.
 <br />
 
 
